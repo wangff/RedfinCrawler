@@ -1,8 +1,8 @@
 '''
 Parser tools
-1 RedfinDownloadParser: parse the cvs download from the page.
+1. RedfinDownloadParser: parse the cvs download from the page.
 if it exists, download and parse, otherwise, return fail.
-2 RedfinPageParser: if the cvs isn't provided, have to parse the html page. 
+2. RedfinPageParser: if the cvs isn't provided, the html page will be parsed. 
 And should handle multiple pages.
 '''
 

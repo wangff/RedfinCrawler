@@ -16,3 +16,9 @@
 2018-12-02 21:55:13,109 [MainThread  ] [ERROR]  page https://www.redfin.com/city/1826/MA/Boston/recently-sold parser error occur.
 2018-12-02 21:55:19,293 [MainThread  ] [ERROR]  cannot find download area.
 2018-12-02 21:56:25,980 [MainThread  ] [ERROR]  page https://www.redfin.com/city/2832/NY/Buffalo/recently-sold parser error occur.
+2019-02-04 12:04:48,937 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 12:05:26,323 [MainThread  ] [ERROR]  page https://www.redfin.com/city/21282/VA/Arlington/recently-sold parser error occur.
+2019-02-04 12:05:37,402 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 12:06:51,472 [MainThread  ] [ERROR]  page https://www.redfin.com/city/30756/GA/Atlanta/recently-sold parser error occur.
+2019-02-04 12:06:58,167 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 12:07:21,660 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/308/TX/Austin/recently-sold blocked.
