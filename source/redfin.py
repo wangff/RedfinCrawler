@@ -23,10 +23,13 @@ class Redfin():
         logging.info('parsing city list...')
 
         city_hrefs = self.parse_city_list(main_page_source)
+
+        logging.debug('\n'.join(city_hrefs))
+
         for city_href in city_hrefs:
             self.search_sold_houses_area(city_href)
 
-    def search_sold_houses_area(self, area_str: str):
+    def search_sold_houses_area(self, area_str:str):
         area_str = area_str.strip('/')
 
         start_url = '/'.join(['https://www.redfin.com', area_str, 'recently-sold'])
@@ -48,7 +51,7 @@ class Redfin():
             else:
                 logging.error("page {} parser error occur.".format(start_url))
 
-    def parse_city_list(self, page_source: str):
+    def parse_city_list(self, page_source:str):
         soup = BeautifulSoup(page_source, 'html.parser')
         ul = soup.find('ul', {'class': 'city-list'})
 

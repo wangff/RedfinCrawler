@@ -38,10 +38,8 @@ class RedfinRequest:
                     break
             except Exception as e:
                 logging.error('request {} error.'.format(url))
-
             if i == 9:
                 logging.critical('ip may be blocked error.')
-                exit()
         return http_response.text
 
     def request_page_no_proxy(self, url):
@@ -56,7 +54,6 @@ class RedfinRequest:
 
         if i == 9:
             logging.critical('make single page request {} blocked.'.format(url))
-            exit()
 
         return http_response.text
 

@@ -1,0 +1,157 @@
+2019-02-04 13:16:30,371 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:17:49,601 [MainThread  ] [ERROR]  page https://www.redfin.com/city/30756/GA/Atlanta/recently-sold parser error occur.
+2019-02-04 13:17:55,944 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:18:17,584 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/308/TX/Austin/recently-sold blocked.
+2019-02-04 13:27:01,940 [MainThread  ] [INFO ]  start loading "www.redfin.com".
+2019-02-04 13:27:01,940 [MainThread  ] [INFO ]  request url https://www.redfin.com.
+2019-02-04 13:27:09,666 [MainThread  ] [INFO ]  parsing city list...
+2019-02-04 13:27:09,706 [MainThread  ] [INFO ]  found 82 cities.
+2019-02-04 13:27:09,707 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/245/NY/Albany/recently-sold using download link.
+2019-02-04 13:27:09,707 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/245/NY/Albany/recently-sold.
+2019-02-04 13:27:21,045 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:27:21,045 [MainThread  ] [INFO ]  querying city https://www.redfin.com/city/245/NY/Albany/recently-sold failed. we use another solution.
+2019-02-04 13:27:21,045 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/245/NY/Albany/recently-sold.
+2019-02-04 13:27:31,266 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/25/NY/Albany/recently-sold.
+2019-02-04 13:27:44,888 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/25/NY/Albany/recently-sold blocked.
+2019-02-04 13:30:30,542 [MainThread  ] [INFO ]  start loading "www.redfin.com".
+2019-02-04 13:30:30,543 [MainThread  ] [INFO ]  request url https://www.redfin.com.
+2019-02-04 13:30:36,225 [MainThread  ] [INFO ]  parsing city list...
+2019-02-04 13:30:36,266 [MainThread  ] [INFO ]  found 82 cities.
+2019-02-04 13:30:36,266 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/245/NY/Albany/recently-sold using download link.
+2019-02-04 13:30:36,266 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/245/NY/Albany/recently-sold.
+2019-02-04 13:30:46,654 [MainThread  ] [INFO ]  request url https://www.redfin.com//stingray/api/gis-csv?al=1&market=albany&min_stories=1&num_homes=350&ord=redfin-recommended-asc&page_number=1&region_id=245&region_type=6&sold_within_days=30&status=9&uipt=1,2,3,4,5,6&v=8.
+2019-02-04 13:30:56,980 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/513/NM/Albuquerque/recently-sold using download link.
+2019-02-04 13:30:56,980 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/513/NM/Albuquerque/recently-sold.
+2019-02-04 13:31:05,667 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:31:05,667 [MainThread  ] [INFO ]  querying city https://www.redfin.com/city/513/NM/Albuquerque/recently-sold failed. we use another solution.
+2019-02-04 13:31:05,667 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/513/NM/Albuquerque/recently-sold.
+2019-02-04 13:31:14,701 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/250/VA/Alexandria/recently-sold using download link.
+2019-02-04 13:31:14,701 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/250/VA/Alexandria/recently-sold.
+2019-02-04 13:31:25,710 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:31:25,711 [MainThread  ] [INFO ]  querying city https://www.redfin.com/city/250/VA/Alexandria/recently-sold failed. we use another solution.
+2019-02-04 13:31:25,711 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/250/VA/Alexandria/recently-sold.
+2019-02-04 13:31:32,268 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/250/VA/Alexandria/recently-sold/page-2.
+2019-02-04 13:31:38,391 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/250/VA/Alexandria/recently-sold/page-4.
+2019-02-04 13:31:48,403 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/250/VA/Alexandria/recently-sold/page-6.
+2019-02-04 13:32:00,654 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/250/VA/Alexandria/recently-sold/page-8.
+2019-02-04 13:32:09,531 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/250/VA/Alexandria/recently-sold/page-10.
+2019-02-04 13:32:16,099 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/250/VA/Alexandria/recently-sold/page-12.
+2019-02-04 13:32:25,168 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/250/VA/Alexandria/recently-sold/page-14.
+2019-02-04 13:32:34,255 [MainThread  ] [ERROR]  page https://www.redfin.com/city/250/VA/Alexandria/recently-sold parser error occur.
+2019-02-04 13:32:34,255 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/21282/VA/Arlington/recently-sold using download link.
+2019-02-04 13:32:34,255 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/21282/VA/Arlington/recently-sold.
+2019-02-04 13:32:43,283 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:32:43,284 [MainThread  ] [INFO ]  querying city https://www.redfin.com/city/21282/VA/Arlington/recently-sold failed. we use another solution.
+2019-02-04 13:32:43,284 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/21282/VA/Arlington/recently-sold.
+2019-02-04 13:32:53,408 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2122/VA/Arlington/recently-sold.
+2019-02-04 13:33:04,256 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2122/VA/Arlington/recently-sold/page-3.
+2019-02-04 13:33:14,261 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2122/VA/Arlington/recently-sold/page-5.
+2019-02-04 13:33:23,176 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2122/VA/Arlington/recently-sold/page-7.
+2019-02-04 13:33:29,116 [MainThread  ] [ERROR]  page https://www.redfin.com/city/21282/VA/Arlington/recently-sold parser error occur.
+2019-02-04 13:33:29,116 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/30756/GA/Atlanta/recently-sold using download link.
+2019-02-04 13:33:29,116 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold.
+2019-02-04 13:33:39,312 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:33:39,312 [MainThread  ] [INFO ]  querying city https://www.redfin.com/city/30756/GA/Atlanta/recently-sold failed. we use another solution.
+2019-02-04 13:33:39,313 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold.
+2019-02-04 13:33:48,440 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-2.
+2019-02-04 13:33:59,455 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-4.
+2019-02-04 13:34:07,607 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-6.
+2019-02-04 13:34:15,605 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-8.
+2019-02-04 13:34:21,660 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-10.
+2019-02-04 13:34:28,643 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-12.
+2019-02-04 13:34:39,779 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-14.
+2019-02-04 13:34:48,784 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-16.
+2019-02-04 13:34:58,963 [MainThread  ] [ERROR]  page https://www.redfin.com/city/30756/GA/Atlanta/recently-sold parser error occur.
+2019-02-04 13:34:58,963 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/30818/TX/Austin/recently-sold using download link.
+2019-02-04 13:34:58,964 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30818/TX/Austin/recently-sold.
+2019-02-04 13:35:06,703 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:35:06,704 [MainThread  ] [INFO ]  querying city https://www.redfin.com/city/30818/TX/Austin/recently-sold failed. we use another solution.
+2019-02-04 13:35:06,704 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30818/TX/Austin/recently-sold.
+2019-02-04 13:35:17,223 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/308/TX/Austin/recently-sold.
+2019-02-04 13:35:28,206 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/308/TX/Austin/recently-sold blocked.
+2019-02-04 13:38:48,479 [MainThread  ] [INFO ]  start loading "www.redfin.com".
+2019-02-04 13:38:48,483 [MainThread  ] [INFO ]  request url https://www.redfin.com.
+2019-02-04 13:38:58,203 [MainThread  ] [INFO ]  parsing city list...
+2019-02-04 13:38:58,236 [MainThread  ] [INFO ]  found 82 cities.
+2019-02-04 13:38:58,237 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/245/NY/Albany/recently-sold using download link.
+2019-02-04 13:38:58,237 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/245/NY/Albany/recently-sold.
+2019-02-04 13:40:43,430 [MainThread  ] [INFO ]  start loading "www.redfin.com".
+2019-02-04 13:40:43,430 [MainThread  ] [INFO ]  request url https://www.redfin.com.
+2019-02-04 13:40:49,193 [MainThread  ] [INFO ]  parsing city list...
+2019-02-04 13:40:49,224 [MainThread  ] [INFO ]  found 82 cities.
+2019-02-04 13:40:49,225 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/245/NY/Albany/recently-sold using download link.
+2019-02-04 13:40:49,225 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/245/NY/Albany/recently-sold.
+2019-02-04 13:40:55,455 [MainThread  ] [INFO ]  request url https://www.redfin.com//stingray/api/gis-csv?al=1&market=albany&min_stories=1&num_homes=350&ord=redfin-recommended-asc&page_number=1&region_id=245&region_type=6&sold_within_days=30&status=9&uipt=1,2,3,4,5,6&v=8.
+2019-02-04 13:41:00,519 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/513/NM/Albuquerque/recently-sold using download link.
+2019-02-04 13:41:00,519 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/513/NM/Albuquerque/recently-sold.
+2019-02-04 13:41:07,178 [MainThread  ] [INFO ]  request url https://www.redfin.com//stingray/api/gis-csv?al=1&market=newmexico&min_stories=1&num_homes=350&ord=redfin-recommended-asc&page_number=1&region_id=513&region_type=6&sold_within_days=30&status=9&uipt=1,2,3,4,5,6&v=8.
+2019-02-04 13:41:17,540 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/250/VA/Alexandria/recently-sold using download link.
+2019-02-04 13:41:17,543 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/250/VA/Alexandria/recently-sold.
+2019-02-04 13:41:28,880 [MainThread  ] [INFO ]  request url https://www.redfin.com//stingray/api/gis-csv?al=1&market=dc&min_stories=1&num_homes=350&ord=redfin-recommended-asc&page_number=1&region_id=250&region_type=6&sold_within_days=30&status=9&uipt=1,2,3,4,5,6&v=8.
+2019-02-04 13:41:38,494 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/21282/VA/Arlington/recently-sold using download link.
+2019-02-04 13:41:38,494 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/21282/VA/Arlington/recently-sold.
+2019-02-04 13:41:47,274 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:41:47,274 [MainThread  ] [INFO ]  querying city https://www.redfin.com/city/21282/VA/Arlington/recently-sold failed. we use another solution.
+2019-02-04 13:41:47,274 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/21282/VA/Arlington/recently-sold.
+2019-02-04 13:41:58,764 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2122/VA/Arlington/recently-sold.
+2019-02-04 13:42:05,668 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2122/VA/Arlington/recently-sold/page-3.
+2019-02-04 13:42:16,746 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2122/VA/Arlington/recently-sold/page-5.
+2019-02-04 13:42:22,573 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2122/VA/Arlington/recently-sold/page-7.
+2019-02-04 13:42:30,677 [MainThread  ] [ERROR]  page https://www.redfin.com/city/21282/VA/Arlington/recently-sold parser error occur.
+2019-02-04 13:42:30,677 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/30756/GA/Atlanta/recently-sold using download link.
+2019-02-04 13:42:30,677 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold.
+2019-02-04 13:42:40,775 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:42:40,775 [MainThread  ] [INFO ]  querying city https://www.redfin.com/city/30756/GA/Atlanta/recently-sold failed. we use another solution.
+2019-02-04 13:42:40,776 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold.
+2019-02-04 13:42:51,060 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-2.
+2019-02-04 13:42:58,225 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-4.
+2019-02-04 13:43:05,165 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-6.
+2019-02-04 13:43:16,007 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-8.
+2019-02-04 13:43:27,218 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-10.
+2019-02-04 13:43:33,277 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-12.
+2019-02-04 13:43:42,186 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-14.
+2019-02-04 13:43:50,275 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-16.
+2019-02-04 13:44:01,221 [MainThread  ] [ERROR]  page https://www.redfin.com/city/30756/GA/Atlanta/recently-sold parser error occur.
+2019-02-04 13:44:01,222 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/30818/TX/Austin/recently-sold using download link.
+2019-02-04 13:44:01,222 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30818/TX/Austin/recently-sold.
+2019-02-04 13:44:12,485 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:44:12,485 [MainThread  ] [INFO ]  querying city https://www.redfin.com/city/30818/TX/Austin/recently-sold failed. we use another solution.
+2019-02-04 13:44:12,486 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30818/TX/Austin/recently-sold.
+2019-02-04 13:44:22,694 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/308/TX/Austin/recently-sold.
+2019-02-04 13:44:34,442 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/308/TX/Austin/recently-sold blocked.
+2019-02-04 13:47:37,581 [MainThread  ] [INFO ]  start loading "www.redfin.com".
+2019-02-04 13:47:37,581 [MainThread  ] [INFO ]  request url https://www.redfin.com.
+2019-02-04 13:47:44,296 [MainThread  ] [INFO ]  parsing city list...
+2019-02-04 13:47:44,331 [MainThread  ] [INFO ]  found 82 cities.
+2019-02-04 13:47:44,331 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/245/NY/Albany/recently-sold using download link.
+2019-02-04 13:47:44,332 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/245/NY/Albany/recently-sold.
+2019-02-04 13:47:54,283 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:47:54,283 [MainThread  ] [INFO ]  querying city https://www.redfin.com/city/245/NY/Albany/recently-sold failed. we use another solution.
+2019-02-04 13:47:54,283 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/245/NY/Albany/recently-sold.
+2019-02-04 13:48:00,503 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/25/NY/Albany/recently-sold.
+2019-02-04 13:48:15,150 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/25/NY/Albany/recently-sold blocked.
+2019-02-04 13:49:08,089 [MainThread  ] [INFO ]  start loading "www.redfin.com".
+2019-02-04 13:49:08,089 [MainThread  ] [INFO ]  request url https://www.redfin.com.
+2019-02-04 13:49:15,741 [MainThread  ] [INFO ]  parsing city list...
+2019-02-04 13:49:15,785 [MainThread  ] [INFO ]  found 82 cities.
+2019-02-04 13:49:15,786 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/245/NY/Albany/recently-sold using download link.
+2019-02-04 13:49:15,786 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/245/NY/Albany/recently-sold.
+2019-02-04 13:49:22,750 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:49:22,755 [MainThread  ] [INFO ]  querying city https://www.redfin.com/city/245/NY/Albany/recently-sold failed. we use another solution.
+2019-02-04 13:49:22,755 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/245/NY/Albany/recently-sold.
+2019-02-04 13:49:33,898 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/25/NY/Albany/recently-sold.
+2019-02-04 13:49:47,882 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/25/NY/Albany/recently-sold blocked.
+2019-02-04 13:49:47,890 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/25/NY/Albany/recently-sold/page-3.
+2019-02-04 13:49:58,883 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/25/NY/Albany/recently-sold/page-3 blocked.
+2019-02-04 13:49:58,895 [MainThread  ] [ERROR]  page https://www.redfin.com/city/245/NY/Albany/recently-sold parser error occur.
+2019-02-04 13:49:58,895 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/513/NM/Albuquerque/recently-sold using download link.
+2019-02-04 13:49:58,895 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/513/NM/Albuquerque/recently-sold.
+2019-02-04 13:50:04,673 [MainThread  ] [INFO ]  request url https://www.redfin.com//stingray/api/gis-csv?al=1&market=newmexico&min_stories=1&num_homes=350&ord=redfin-recommended-asc&page_number=1&region_id=513&region_type=6&sold_within_days=30&status=9&uipt=1,2,3,4,5,6&v=8.
+2019-02-04 13:50:12,993 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/250/VA/Alexandria/recently-sold using download link.
+2019-02-04 13:50:12,993 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/250/VA/Alexandria/recently-sold.
+2019-02-04 13:50:26,286 [MainThread  ] [INFO ]  request url https://www.redfin.com//stingray/api/gis-csv?al=1&market=dc&min_stories=1&num_homes=350&ord=redfin-recommended-asc&page_number=1&region_id=250&region_type=6&sold_within_days=30&status=9&uipt=1,2,3,4,5,6&v=8.
+2019-02-04 13:50:34,377 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/21282/VA/Arlington/recently-sold using download link.
+2019-02-04 13:50:34,377 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/21282/VA/Arlington/recently-sold.
+2019-02-04 13:50:40,538 [MainThread  ] [INFO ]  request url https://www.redfin.com//stingray/api/gis-csv?al=1&market=dc&min_stories=1&num_homes=350&ord=redfin-recommended-asc&page_number=1&region_id=21282&region_type=6&sold_within_days=30&status=9&uipt=1,2,3,4,5,6&v=8.
+2019-02-04 13:50:45,959 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/30756/GA/Atlanta/recently-sold using download link.
+2019-02-04 13:50:45,959 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold.
