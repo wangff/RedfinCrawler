@@ -155,3 +155,111 @@
 2019-02-04 13:50:40,538 [MainThread  ] [INFO ]  request url https://www.redfin.com//stingray/api/gis-csv?al=1&market=dc&min_stories=1&num_homes=350&ord=redfin-recommended-asc&page_number=1&region_id=21282&region_type=6&sold_within_days=30&status=9&uipt=1,2,3,4,5,6&v=8.
 2019-02-04 13:50:45,959 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/30756/GA/Atlanta/recently-sold using download link.
 2019-02-04 13:50:45,959 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold.
+2019-02-04 13:50:52,380 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:50:52,380 [MainThread  ] [INFO ]  querying city https://www.redfin.com/city/30756/GA/Atlanta/recently-sold failed. we use another solution.
+2019-02-04 13:50:52,380 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold.
+2019-02-04 13:50:58,755 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-2.
+2019-02-04 13:51:04,697 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-4.
+2019-02-04 13:51:11,939 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-6.
+2019-02-04 13:51:18,098 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-8.
+2019-02-04 13:51:24,345 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-10.
+2019-02-04 13:51:31,469 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-12.
+2019-02-04 13:51:39,597 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-14.
+2019-02-04 13:51:50,538 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30756/GA/Atlanta/recently-sold/page-16.
+2019-02-04 13:52:00,416 [MainThread  ] [ERROR]  page https://www.redfin.com/city/30756/GA/Atlanta/recently-sold parser error occur.
+2019-02-04 13:52:00,416 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/30818/TX/Austin/recently-sold using download link.
+2019-02-04 13:52:00,416 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30818/TX/Austin/recently-sold.
+2019-02-04 13:52:09,713 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:52:09,713 [MainThread  ] [INFO ]  querying city https://www.redfin.com/city/30818/TX/Austin/recently-sold failed. we use another solution.
+2019-02-04 13:52:09,713 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/30818/TX/Austin/recently-sold.
+2019-02-04 13:52:19,934 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/308/TX/Austin/recently-sold.
+2019-02-04 13:52:30,295 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/308/TX/Austin/recently-sold blocked.
+2019-02-04 13:52:30,309 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/308/TX/Austin/recently-sold/page-3.
+2019-02-04 13:52:43,337 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/308/TX/Austin/recently-sold/page-3 blocked.
+2019-02-04 13:52:43,346 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/308/TX/Austin/recently-sold/page-5.
+2019-02-04 13:52:56,836 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/308/TX/Austin/recently-sold/page-5 blocked.
+2019-02-04 13:52:56,842 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/308/TX/Austin/recently-sold/page-7.
+2019-02-04 13:53:10,869 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/308/TX/Austin/recently-sold/page-7 blocked.
+2019-02-04 13:53:10,876 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/308/TX/Austin/recently-sold/page-9.
+2019-02-04 13:53:21,732 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/308/TX/Austin/recently-sold/page-9 blocked.
+2019-02-04 13:53:21,739 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/308/TX/Austin/recently-sold/page-11.
+2019-02-04 13:53:35,746 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/308/TX/Austin/recently-sold/page-11 blocked.
+2019-02-04 13:53:35,753 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/308/TX/Austin/recently-sold/page-13.
+2019-02-04 13:53:47,756 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/308/TX/Austin/recently-sold/page-13 blocked.
+2019-02-04 13:53:47,763 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/308/TX/Austin/recently-sold/page-15.
+2019-02-04 13:53:57,093 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/308/TX/Austin/recently-sold/page-15 blocked.
+2019-02-04 13:53:57,100 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/308/TX/Austin/recently-sold/page-17.
+2019-02-04 13:54:06,239 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/308/TX/Austin/recently-sold/page-17 blocked.
+2019-02-04 13:54:06,246 [MainThread  ] [ERROR]  page https://www.redfin.com/city/30818/TX/Austin/recently-sold parser error occur.
+2019-02-04 13:54:06,246 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/1073/MD/Baltimore/recently-sold using download link.
+2019-02-04 13:54:06,246 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/1073/MD/Baltimore/recently-sold.
+2019-02-04 13:54:13,323 [MainThread  ] [INFO ]  request url https://www.redfin.com//stingray/api/gis-csv?al=1&market=dc&min_stories=1&num_homes=350&ord=redfin-recommended-asc&page_number=1&region_id=1073&region_type=6&sold_within_days=30&status=9&uipt=1,2,3,4,5,6&v=8.
+2019-02-04 13:54:20,884 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/1336/LA/Baton-Rouge/recently-sold using download link.
+2019-02-04 13:54:20,884 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/1336/LA/Baton-Rouge/recently-sold.
+2019-02-04 13:54:28,213 [MainThread  ] [INFO ]  request url https://www.redfin.com//stingray/api/gis-csv?al=1&market=louisiana&min_stories=1&num_homes=350&ord=redfin-recommended-asc&page_number=1&region_id=1336&region_type=6&sold_within_days=30&status=9&uipt=1,2,3,4,5,6&v=8.
+2019-02-04 13:54:35,416 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/1387/WA/Bellevue/recently-sold using download link.
+2019-02-04 13:54:35,416 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/1387/WA/Bellevue/recently-sold.
+2019-02-04 13:54:46,229 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:54:46,229 [MainThread  ] [INFO ]  querying city https://www.redfin.com/city/1387/WA/Bellevue/recently-sold failed. we use another solution.
+2019-02-04 13:54:46,229 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/1387/WA/Bellevue/recently-sold.
+2019-02-04 13:54:55,690 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/1387/WA/Bellevue/recently-sold/page-2.
+2019-02-04 13:55:06,981 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/1387/WA/Bellevue/recently-sold/page-2 blocked.
+2019-02-04 13:55:06,981 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/1387/WA/Bellevue/recently-sold/page-4.
+2019-02-04 13:55:16,860 [MainThread  ] [ERROR]  page https://www.redfin.com/city/1387/WA/Bellevue/recently-sold parser error occur.
+2019-02-04 13:55:16,860 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/21534/MD/Bethesda/recently-sold using download link.
+2019-02-04 13:55:16,860 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/21534/MD/Bethesda/recently-sold.
+2019-02-04 13:55:24,098 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:55:24,098 [MainThread  ] [INFO ]  querying city https://www.redfin.com/city/21534/MD/Bethesda/recently-sold failed. we use another solution.
+2019-02-04 13:55:24,098 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/21534/MD/Bethesda/recently-sold.
+2019-02-04 13:55:31,623 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2134/MD/Bethesda/recently-sold.
+2019-02-04 13:55:38,381 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2134/MD/Bethesda/recently-sold/page-3.
+2019-02-04 13:55:46,920 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/2134/MD/Bethesda/recently-sold/page-3 blocked.
+2019-02-04 13:55:46,921 [MainThread  ] [ERROR]  page https://www.redfin.com/city/21534/MD/Bethesda/recently-sold parser error occur.
+2019-02-04 13:55:46,922 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/1823/AL/Birmingham/recently-sold using download link.
+2019-02-04 13:55:46,922 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/1823/AL/Birmingham/recently-sold.
+2019-02-04 13:55:58,253 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:55:58,254 [MainThread  ] [INFO ]  querying city https://www.redfin.com/city/1823/AL/Birmingham/recently-sold failed. we use another solution.
+2019-02-04 13:55:58,254 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/1823/AL/Birmingham/recently-sold.
+2019-02-04 13:56:08,951 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/23/AL/Birmingham/recently-sold.
+2019-02-04 13:56:17,307 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/23/AL/Birmingham/recently-sold/page-3.
+2019-02-04 13:56:25,267 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/23/AL/Birmingham/recently-sold/page-5.
+2019-02-04 13:56:35,310 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/23/AL/Birmingham/recently-sold/page-7.
+2019-02-04 13:56:42,527 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/23/AL/Birmingham/recently-sold/page-7 blocked.
+2019-02-04 13:56:42,529 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/23/AL/Birmingham/recently-sold/page-9.
+2019-02-04 13:56:50,649 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/23/AL/Birmingham/recently-sold/page-11.
+2019-02-04 13:56:58,402 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/23/AL/Birmingham/recently-sold/page-13.
+2019-02-04 13:57:06,426 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/23/AL/Birmingham/recently-sold/page-13 blocked.
+2019-02-04 13:57:06,427 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/23/AL/Birmingham/recently-sold/page-15.
+2019-02-04 13:57:17,428 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/23/AL/Birmingham/recently-sold/page-15 blocked.
+2019-02-04 13:57:17,455 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/23/AL/Birmingham/recently-sold/page-17.
+2019-02-04 13:57:28,752 [MainThread  ] [ERROR]  page https://www.redfin.com/city/1823/AL/Birmingham/recently-sold parser error occur.
+2019-02-04 13:57:28,752 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/1826/MA/Boston/recently-sold using download link.
+2019-02-04 13:57:28,752 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/1826/MA/Boston/recently-sold.
+2019-02-04 13:57:39,419 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/1826/MA/Boston/recently-sold blocked.
+2019-02-04 13:57:39,420 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:57:39,421 [MainThread  ] [INFO ]  querying city https://www.redfin.com/city/1826/MA/Boston/recently-sold failed. we use another solution.
+2019-02-04 13:57:39,421 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/1826/MA/Boston/recently-sold.
+2019-02-04 13:57:48,032 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/1826/MA/Boston/recently-sold/page-2.
+2019-02-04 13:57:55,261 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/1826/MA/Boston/recently-sold/page-4.
+2019-02-04 13:58:04,212 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/1826/MA/Boston/recently-sold/page-6.
+2019-02-04 13:58:14,438 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/1826/MA/Boston/recently-sold/page-6 blocked.
+2019-02-04 13:58:14,439 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/1826/MA/Boston/recently-sold/page-8.
+2019-02-04 13:58:24,284 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/1826/MA/Boston/recently-sold/page-10.
+2019-02-04 13:58:35,789 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/1826/MA/Boston/recently-sold/page-10 blocked.
+2019-02-04 13:58:35,790 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/1826/MA/Boston/recently-sold/page-12.
+2019-02-04 13:58:43,997 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/1826/MA/Boston/recently-sold/page-14.
+2019-02-04 13:58:50,975 [MainThread  ] [ERROR]  page https://www.redfin.com/city/1826/MA/Boston/recently-sold parser error occur.
+2019-02-04 13:58:50,976 [MainThread  ] [INFO ]  querying https://www.redfin.com/city/2832/NY/Buffalo/recently-sold using download link.
+2019-02-04 13:58:50,976 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2832/NY/Buffalo/recently-sold.
+2019-02-04 13:58:58,950 [MainThread  ] [ERROR]  cannot find download area.
+2019-02-04 13:58:58,955 [MainThread  ] [INFO ]  querying city https://www.redfin.com/city/2832/NY/Buffalo/recently-sold failed. we use another solution.
+2019-02-04 13:58:58,955 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2832/NY/Buffalo/recently-sold.
+2019-02-04 13:59:12,018 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2832/NY/Buffalo/recently-sold/page-2.
+2019-02-04 13:59:22,600 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2832/NY/Buffalo/recently-sold/page-4.
+2019-02-04 13:59:34,781 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2832/NY/Buffalo/recently-sold/page-6.
+2019-02-04 13:59:43,840 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2832/NY/Buffalo/recently-sold/page-8.
+2019-02-04 13:59:51,437 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2832/NY/Buffalo/recently-sold/page-10.
+2019-02-04 13:59:57,976 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2832/NY/Buffalo/recently-sold/page-12.
+2019-02-04 14:00:04,410 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2832/NY/Buffalo/recently-sold/page-14.
+2019-02-04 14:00:15,931 [MainThread  ] [CRITI]  make single page request https://www.redfin.com/city/2832/NY/Buffalo/recently-sold/page-14 blocked.
+2019-02-04 14:00:15,937 [MainThread  ] [INFO ]  request url https://www.redfin.com/city/2832/NY/Buffalo/recently-sold/page-16.

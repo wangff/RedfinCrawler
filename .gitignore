@@ -1,2 +1,6 @@
 /__pycache__
 /.vscode/launch.json
+/source/__pycache__/redfin.cpython-37.pyc
+/source/__pycache__/redfin_request.cpython-37.pyc
+/source/__pycache__/parser.cpython-37.pyc
+/source/__pycache__/house.cpython-37.pyc
