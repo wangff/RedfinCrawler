@@ -5,7 +5,7 @@ a scraper for Redfin.com using Python3 for relevant real estate information for 
 
 ## Methodology
 
-### Block Protect
+### Escape from blacklist
 Three methods are introduced to prevent getting blacklisted while scraping.
 
 1. random sleep
